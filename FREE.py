@@ -52,7 +52,7 @@ for n in range(90000):
 
     sys.stdout = open('.txt', 'a')
 
-    print nmbr
+    print
 
     sys.stdout.flush()
 
